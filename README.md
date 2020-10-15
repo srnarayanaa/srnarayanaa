@@ -7,16 +7,16 @@
 
 - 🔭 I’m Research Intern at Tata Research Development and Design Centre
 - 🌱 My interests are : <br/>
-      &nbsp;&nbsp;Data Structures and Algorithms <br/>
-      &nbsp;&nbsp;Networking and Security <br/>
-      &nbsp;&nbsp;Operating Systems <br/>
-      &nbsp;&nbsp;Graph Theory <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;Data Structures and Algorithms <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;Networking and Security <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;Operating Systems <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;Graph Theory <br/>
 - 👯 I’m looking to collaborate with anyone who wants to serve people with Software
 - ⚡ Fun fact: I am wired in 25 hours a day
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-srnarayanaa.vercel.app/api/spotify-playing" alt="srnarayabaa Spotify Playing" width="350" />](https://open.spotify.com/user/i0wf12gfs0gi48un0c48r8c5d)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0wf12gfs0gi48un0c48r8c5d&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=i0wf12gfs0gi48un0c48r8c5d&redirect=true)
 
 ### Connect with me:
 
