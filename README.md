@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0wf12gfs0gi48un0c48r8c5d&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=i0wf12gfs0gi48un0c48r8c5d&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0wf12gfs0gi48un0c48r8c5d&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=i0wf12gfs0gi48un0c48r8c5d&redirect=true)
 
 ### Connect with me:
 
