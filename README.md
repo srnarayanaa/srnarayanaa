@@ -24,7 +24,7 @@
 [<img align="left" alt="srnarayanaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="srnarayanaa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="srnarayanaa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="srnarayanaa | Codechef" width="22px" src="https://codeutsava.in/assets/spons_images/codechef.png" />][instagram]
+[<img align="left" alt="srnarayanaa | Codechef" width="22px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />][instagram]
 <br />
 
 
