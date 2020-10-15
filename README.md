@@ -7,10 +7,10 @@
 
 - 🔭 I’m Research Intern at Tata Research Development and Design Centre
 - 🌱 My interests are : <br/>
-      --Data Structures and Algorithms <br/>
-      --Networking and Security <br/>
-      --Operating Systems <br/>
-      --Graph Theory <br/>
+      &nbsp;&nbsp;Data Structures and Algorithms <br/>
+      &nbsp;&nbsp;Networking and Security <br/>
+      &nbsp;&nbsp;Operating Systems <br/>
+      &nbsp;&nbsp;Graph Theory <br/>
 - 👯 I’m looking to collaborate with anyone who wants to serve people with Software
 - ⚡ Fun fact: I am wired in 25 hours a day
 
