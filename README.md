@@ -1,6 +1,6 @@
 ### Hi there, I'm Narayanaa 👋
 
-[![Website](https://img.shields.io/website?label=geeksingularity.com&style=for-the-badge&url=https%3A%2F%2Fgeeksingularity.com)](https://geeksingularity.com)
+[![Website](https://img.shields.io/website?label=geeksingularity.com&style=for-the-badge&url=https%3A%2F%2Fgeeksingularity.com)](http://geeksingularity.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/srnarayanaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%srnarayanaa&screen_name=srnarayanaa)
 
 ## CS GRAD STUDENT | AUTODIDACT | COMPETITIVE PROGRAMMING | F1 & FOOTBALL FANATIC 
