@@ -6,12 +6,12 @@
 [![Badge](https://cp-logo.vercel.app/codechef/srnarayanaa)](https://www.codechef.com/users/srnarayanaa)
 ## CS Grad Student | Autodidact | Competitive Programming | F1 | Football
 
-- 🔭 I’m Research Intern at Tata Research Development and Design Centre
+- 🔭 I’m a Research Intern at Tata Research Development and Design Centre
 - 🌱 My interests are : <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;Data Structures and Algorithms <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;Networking and Security <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;Operating Systems <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;Graph Theory <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Structures and Algorithms <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Networking and Security <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operating Systems <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph Theory <br/>
 - 👯 I’m looking to collaborate with anyone who wants to serve people with Software
 - ⚡ Fun fact: I am wired in 25 hours a day
 
