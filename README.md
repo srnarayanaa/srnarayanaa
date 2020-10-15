@@ -1,8 +1,8 @@
 ### Hi there, I'm Narayanaa 👋
 
 [![Website](https://img.shields.io/website?label=geeksingularity.com&style=for-the-badge&url=https%3A%2F%2Fgeeksingularity.com)](http://geeksingularity.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/srnarayanaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%srnarayanaa&screen_name=srnarayanaa)
-[![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srnarayanaa)
+[![Twitter Follow](https://img.shields.io/twitter/follow/srnarayanaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/srnarayanaa)
+[![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srnarayanaa) <br>
 [![Badge](https://cp-logo.vercel.app/codechef/srnarayanaa)](https://www.codechef.com/users/srnarayanaa)
 ## CS Grad Student | Autodidact | Competitive Programming | F1 | Football
 
