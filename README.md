@@ -4,7 +4,7 @@
 [![Twitter ](https://img.shields.io/twitter/url/https/twitter.com/srnarayanaa.svg?style=social&label=Follow%20%40srnarayanaa)](https://twitter.com/srnarayanaa)
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/srnarayanaa)
 [![Badge](https://cp-logo.vercel.app/codechef/srnarayanaa)](https://www.codechef.com/users/srnarayanaa)
-## CS Grad Student | Autodidact | Competitive Programming | F1 | Football
+## CS Grad Student | Competitive Programming
 
 - 🌱 My interests are : <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Structures and Algorithms <br/>
@@ -12,7 +12,6 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operating Systems <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph Theory <br/>
 - 👯 I’m looking to collaborate with anyone interested in Algorithms
-- ⚡ Fun fact: I am wired in 25 hours a day
 
 ### Spotify Playing 🎧
 
