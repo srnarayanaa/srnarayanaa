@@ -1,6 +1,6 @@
 ### Hi there, I'm Narayanaa 👋
 
-[![Website](https://img.shields.io/badge/geeksingularity-Visit-brightgreen)](http://geeksingularity.com)
+[![Website](https://img.shields.io/badge/srnarayanaa-Visit-brightgreen)](http://srnarayanaa.me)
 [![Twitter ](https://img.shields.io/twitter/url/https/twitter.com/srnarayanaa.svg?style=social&label=Follow%20%40srnarayanaa)](https://twitter.com/srnarayanaa)
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/srnarayanaa)
 [![Badge](https://cp-logo.vercel.app/codechef/srnarayanaa)](https://www.codechef.com/users/srnarayanaa)
