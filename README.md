@@ -8,10 +8,9 @@
 
 - 🌱 My interests are : <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Structures and Algorithms <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Networking and Security <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operating Systems <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph Theory <br/>
-- 👯 I’m looking to collaborate with anyone interested in Algorithms
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operating Systems <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hybrid Clopud <br/>
 
 ### Spotify Playing 🎧
 
