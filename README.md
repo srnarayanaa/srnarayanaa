@@ -10,7 +10,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Structures and Algorithms <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph Theory <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operating Systems <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hybrid Clopud <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hybrid Cloud <br/>
 
 ### Spotify Playing 🎧
 
