@@ -25,7 +25,7 @@
 <br />
 
 
-[website]: https://geeksingularity.com
+[website]: https://srnarayanaa.me
 [twitter]: https://twitter.com/srnarayanaa
 [instagram]: https://instagram.com/srnarayanaa
 [linkedin]: https://linkedin.com/in/srnarayanaa
