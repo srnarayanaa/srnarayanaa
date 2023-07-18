@@ -21,7 +21,7 @@
 <br />
 
 
-[website]: https://srnarayanaa.me
+[website]: https://srnarayanaa.github.io
 [twitter]: https://twitter.com/srnarayanaa
-[instagram]: https://instagram.com/srnarayanaa
+[instagram]: https://instagram.com/226.0254
 [linkedin]: https://linkedin.com/in/srnarayanaa
