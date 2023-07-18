@@ -4,17 +4,13 @@
 [![Twitter ](https://img.shields.io/twitter/url/https/twitter.com/srnarayanaa.svg?style=social&label=Follow%20%40srnarayanaa)](https://twitter.com/srnarayanaa)
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/srnarayanaa)
 [![Badge](https://cp-logo.vercel.app/codechef/srnarayanaa)](https://www.codechef.com/users/srnarayanaa)
-## CS Grad Student | Competitive Programming
+## Backend Engineer | Competitive Programmer
 
 - 🌱 My interests are : <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Structures and Algorithms <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Algorithms and Complexities<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph Theory <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operating Systems <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hybrid Cloud <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Low Latency Development <br/>
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0wf12gfs0gi48un0c48r8c5d&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=i0wf12gfs0gi48un0c48r8c5d&redirect=true)
 
 ### Connect with me:
 
